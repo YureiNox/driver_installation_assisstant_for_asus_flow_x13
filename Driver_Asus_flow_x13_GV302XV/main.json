@@ -1,0 +1,41 @@
+{
+    "Network": {
+        "URL": "https://dlcdnets.asus.com/pub/ASUS/GamingNB/Image/Driver/Networking/31541/LAN_ROG_Realtek_Z_V1156.1153.10.20.1104_31541.exe?model=ROG%20Flow%20X13%202023%20GV302",
+        "Filename": "LAN_ROG_Realtek_Z_V1156.1153.10.20.1104_31541.exe"
+    },
+    "Chipset": {
+        "URL": "https://dlcdnets.asus.com/pub/ASUS/GamingNB/Image/Driver/Chipset/34274/AMD_Chipset_DriverOnly_ROG_AMD_Z_V1.2.0.121Sub4_34274.exe?model=ROG%20Flow%20X13%202023%20GV302",
+        "Filename": "AMD_Chipset_DriverOnly_ROG_AMD_Z_V1.2.0.121Sub4_34274.exe"
+    },
+    "Audio": {
+        "URL": "https://www.microsoft.com/store/apps/9p2b8mcsvpln?tp=RHJpdmVyR2FtaW5nIE5C"
+        },
+    "Graphics": {
+        "URL": "https://dlcdnets.asus.com/pub/ASUS/GamingNB/Image/Driver/Graphics/37643/AMD_Graphic_DriverOnly_ROG_AMD_Z_V31.0.14084.6002_37643.exe?model=ROG%20Flow%20X13%202023%20GV302",    
+        "Filename": "AMD_Graphic_DriverOnly_ROG_AMD_Z_V31.0.14084.6002_37643.exe"
+    },
+    "Lecteur": {
+        "URL": "https://dlcdnets.asus.com/pub/ASUS/GamingNB/Image/Driver/CardReader/34592/XGMobileCardReader_ROG_Genesys_Z_V4.5.5.9_34592.exe?model=ROG%20Flow%20X13%202023%20GV302",
+        "Filename": "XGMobileCardReader_ROG_Genesys_Z_V4.5.5.9_34592.exe"
+    },
+    "Pave": {
+        "URL": "https://dlcdnets.asus.com/pub/ASUS/GamingNB/Image/Driver/PointingDevice/33814/PrecisionTouchPad_ROG_ASUS_Z_V16.0.0.19_33814.exe?model=ROG%20Flow%20X13%202023%20GV302",
+        "Filename": "PrecisionTouchPad_ROG_ASUS_Z_V16.0.0.19_33814.exe"
+    },
+    "USB": {
+        "URL": "https://dlcdnets.asus.com/pub/ASUS/GamingNB/Image/Driver/USB/33763/Parade_Retimer_ROG_Parade_Z_V1.0.011.00Sub1_33763.exe?model=ROG%20Flow%20X13%202023%20GV302",
+        "Filename": "Parade_Retimer_ROG_Parade_Z_V1.0.011.00Sub1_33763.exe"
+    },
+    "Bluetooth": {
+        "URL": "https://dlcdnets.asus.com/pub/ASUS/GamingNB/Image/Driver/Bluetooth/38514/Bluetooth_ROG_MediaTek_Z_V1.1037.2.433Sub1_38514.exe?model=ROG%20Flow%20X13%202023%20GV302",
+        "Filename": "Bluetooth_ROG_MediaTek_Z_V1.1037.2.433Sub1_38514.exe"
+    },
+    "Hotfix": {
+        "URL": "https://dlcdnets.asus.com/pub/ASUS/GamingNB/Image/Software/Hotfix/15924/ROGPDFWupdate_ASUS_Z_V2.5.0.001_15924_2.exe?model=ROG%20Flow%20X13%202023%20GV302",
+        "Filename": "ROGPDFWupdate_ASUS_Z_V2.5.0.001_15924_2.exe"
+    },
+    "Utilitaire": {
+        "URL": "https://dlcdnets.asus.com/pub/ASUS/GamingNB/Image/Software/SoftwareandUtility/15310/VirtualPet_ASUS_Z_V2.5.4_15310_2.exe?model=ROG%20Flow%20X13%202023%20GV302",
+        "Filename": "VirtualPet_ASUS_Z_V2.5.4_15310_2.exe"
+    }
+}
